@@ -1,0 +1,12 @@
+Integrantes:
+-Kemer Jimenez
+-
+-
+
+Respuestas:
+1)Ip Privada: 172.29.117.230
+  Ip Publica: 191.95.136.193
+
+2)Direccion MAC: 00:15:5d:2f:aa:09
+
+3)Ambas direcciones ip son de tipo B.
