@@ -1,0 +1,25 @@
+Kemer
+Dirección IP Pública: 191.95.136.193
+Dirección IP Privada y su Máscara de subred: 192.168.1.6 y 255.255.255.0
+Dirección MAC (Ethernet): c0:18:03:5a:64:1a
+Dirección MAC (Wi-fi): 38:d5:7a:24:11:77
+
+La Ip privada es tipo B y la pública es tipo C.
+Fabricante de placa de red (Ethernet): HP Inc.
+Fabricante de placa de red (Wi-fi): CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+
+Laura
+Dirección IP Pública: 191.88.0.121
+Dirección IP Privada y su Máscara de subred: 192.168.56.1y 255.255.255.0
+Dirección MAC (Ethernet): 2c:f0:5d:2a:5e:85
+
+La Ip privada es tipo B y la pública es tipo C.
+Fabricante de placa de red (Ethernet): Micro-Star INTL CO., LTD.
+
+Kimberly
+Dirección IP Pública: 191.89.0.125
+Dirección IP Privada y su Máscara de subred: 192.168.100.254 y 255.255.255.0
+Dirección MAC (Ethernet): 20-21-12-1A-04-3ª
+
+La Ip privada es tipo B y la pública es tipo C.
+Fabricante de placa de red (Ethernet): Realtek
